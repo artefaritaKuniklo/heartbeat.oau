@@ -20,7 +20,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/one-among-us/web/main/public/large_maple-leaf.png
   name: OAU Dash
   introTitle: "up time & status monitor for proj. related services"
   introMessage: ""
