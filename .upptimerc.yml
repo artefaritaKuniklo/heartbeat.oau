@@ -3,11 +3,17 @@ repo: heartbeat.oau
 
 sites:
   - name: One Among US Main
-    url: https://www.google.com
+    url: https://www.one-among.us/
+    icon: https://raw.githubusercontent.com/one-among-us/web/main/public/favicon.png
   - name: One Among US CA
-    url: https://en.wikipedia.org
+    url: https://oneamongus.ca/
+    icon: https://raw.githubusercontent.com/one-among-us/web/main/public/favicon.png
   - name: One Among US Data
-    url: https://en.wikipedia.org
+    url: https://data.one-among.us/
+    icon: https://raw.githubusercontent.com/one-among-us/web/main/public/favicon.png
+
+assignees: # Users to assign downtime issues (optional)
+  - kunik1o
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -23,6 +29,4 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+user-agent: kunik1o
