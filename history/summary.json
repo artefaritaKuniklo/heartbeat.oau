@@ -22,18 +22,20 @@
     "url": "https://oneamongus.ca/",
     "icon": "https://raw.githubusercontent.com/one-among-us/web/main/public/favicon.png",
     "slug": "one-among-us-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 216,
-    "timeDay": 151,
-    "timeWeek": 200,
-    "timeMonth": 216,
-    "timeYear": 216,
-    "dailyMinutesDown": {}
+    "time": 208,
+    "timeDay": 105,
+    "timeWeek": 182,
+    "timeMonth": 208,
+    "timeYear": 208,
+    "dailyMinutesDown": {
+      "2023-04-07": 0
+    }
   },
   {
     "name": "One Among US Data",
