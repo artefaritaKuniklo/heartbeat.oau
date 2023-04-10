@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 130,
-    "timeDay": 106,
-    "timeWeek": 123,
+    "timeDay": 108,
+    "timeWeek": 119,
     "timeMonth": 130,
     "timeYear": 130,
     "dailyMinutesDown": {}
@@ -28,11 +28,11 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 193,
-    "timeDay": 66,
-    "timeWeek": 158,
-    "timeMonth": 193,
-    "timeYear": 193,
+    "time": 188,
+    "timeDay": 69,
+    "timeWeek": 139,
+    "timeMonth": 188,
+    "timeYear": 188,
     "dailyMinutesDown": {
       "2023-04-07": 17
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 141,
-    "timeDay": 92,
-    "timeWeek": 125,
-    "timeMonth": 141,
-    "timeYear": 141,
+    "time": 139,
+    "timeDay": 89,
+    "timeWeek": 119,
+    "timeMonth": 139,
+    "timeYear": 139,
     "dailyMinutesDown": {}
   },
   {
@@ -66,13 +66,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 453,
-    "timeDay": 571,
-    "timeWeek": 453,
-    "timeMonth": 453,
-    "timeYear": 453,
+    "time": 433,
+    "timeDay": 551,
+    "timeWeek": 433,
+    "timeMonth": 433,
+    "timeYear": 433,
     "dailyMinutesDown": {
-      "2023-04-09": 502,
+      "2023-04-10": 25,
+      "2023-04-09": 1440,
       "2023-04-08": 1440,
       "2023-04-07": 745
     }
@@ -83,18 +84,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.co.ico",
     "slug": "negative-control",
     "status": "down",
-    "uptime": "0.37%",
-    "uptimeDay": "0.37%",
-    "uptimeWeek": "0.37%",
-    "uptimeMonth": "0.37%",
-    "uptimeYear": "0.37%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-09": 0
+      "2023-04-10": 25,
+      "2023-04-09": 938
     }
   }
 ]
