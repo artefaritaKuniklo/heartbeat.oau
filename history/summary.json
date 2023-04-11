@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 130,
-    "timeDay": 108,
-    "timeWeek": 119,
+    "timeDay": 129,
+    "timeWeek": 125,
     "timeMonth": 130,
     "timeYear": 130,
     "dailyMinutesDown": {}
@@ -23,16 +23,16 @@
     "icon": "https://raw.githubusercontent.com/one-among-us/web/main/public/favicon.png",
     "slug": "one-among-us-ca",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 188,
-    "timeDay": 69,
-    "timeWeek": 139,
-    "timeMonth": 188,
-    "timeYear": 188,
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 190,
+    "timeDay": 233,
+    "timeWeek": 148,
+    "timeMonth": 190,
+    "timeYear": 190,
     "dailyMinutesDown": {
       "2023-04-07": 17
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 139,
-    "timeDay": 89,
-    "timeWeek": 119,
-    "timeMonth": 139,
-    "timeYear": 139,
+    "time": 137,
+    "timeDay": 108,
+    "timeWeek": 116,
+    "timeMonth": 137,
+    "timeYear": 137,
     "dailyMinutesDown": {}
   },
   {
@@ -66,13 +66,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 433,
-    "timeDay": 551,
-    "timeWeek": 433,
-    "timeMonth": 433,
-    "timeYear": 433,
+    "time": 420,
+    "timeDay": 355,
+    "timeWeek": 420,
+    "timeMonth": 420,
+    "timeYear": 420,
     "dailyMinutesDown": {
-      "2023-04-10": 25,
+      "2023-04-11": 27,
+      "2023-04-10": 1440,
       "2023-04-09": 1440,
       "2023-04-08": 1440,
       "2023-04-07": 745
@@ -95,7 +96,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-10": 25,
+      "2023-04-11": 27,
+      "2023-04-10": 1440,
       "2023-04-09": 938
     }
   }
