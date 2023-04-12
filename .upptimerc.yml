@@ -1,20 +1,37 @@
-owner: kunik1o
+owner: artefaritaKuniklo
 repo: heartbeat.oau
 
 sites:
-  - name: One Among US Main
+  - name: main.ping
+    check: "tcp-ping"
     url: https://www.one-among.us/
     icon: https://raw.githubusercontent.com/one-among-us/web/main/public/favicon.png
-  - name: One Among US CA
+
+  - name: ca.ping
+    check: "tcp-ping"
     url: https://oneamongus.ca/
     icon: https://raw.githubusercontent.com/one-among-us/web/main/public/favicon.png
-  - name: One Among US Data
+
+  - name: data.ping
+    check: "tcp-ping"
     url: https://data.one-among.us/
     icon: https://raw.githubusercontent.com/one-among-us/web/main/public/favicon.png
-  - name: One Among US Backend
+
+  - name: be.ping
     url: https://backend.one-among.us/
+    check: "tcp-ping"
     icon: https://raw.githubusercontent.com/one-among-us/web/main/public/favicon.png
-  - name: Negative Control
+
+  - name: data.page
+    url: https://data.one-among.us/people/noname/page.js
+    icon: https://raw.githubusercontent.com/one-among-us/web/main/public/favicon.png
+
+  - name: be.flower
+    url: https://backend.one-among.us/flowers/get?id=noname
+    icon: https://raw.githubusercontent.com/one-among-us/web/main/public/favicon.png
+
+  - name: nc.ping
+    check: "tcp-ping"
     url: https://thissitedoesnotexist.koj.co/
 
 assignees: # Users to assign downtime issues (optional)
@@ -22,15 +39,16 @@ assignees: # Users to assign downtime issues (optional)
   - PatchyChan
   - sauricat
   - Mak1owo
-  - kunik1o
+  - artefaritaKuniklo
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  # logoUrl: https://raw.githubusercontent.com/one-among-us/web/main/public/large_maple-leaf.png
-  name: OAU Dash
+  baseUrl: /heartbeat.oau
+  logoUrl: https://raw.githubusercontent.com/one-among-us/web/main/public/favicon-large.png
+  favicon: https://raw.githubusercontent.com/one-among-us/web/main/public/favicon-large.png
+  name: Proj. One Among US Dashboard
   introTitle: "up time & status monitor for proj. related services"
   introMessage: ""
   navbar:
@@ -43,8 +61,7 @@ status-website:
       content: "dark light"
     - name: "robots"
       content: "noindex"
-
-user-agent: kunik1o
+user-agent: one-among.us
 robotsText: "User-agent: * \n Disallow: /"
 
 workflowSchedule:
