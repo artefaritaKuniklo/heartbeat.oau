@@ -2,24 +2,16 @@ owner: artefaritaKuniklo
 repo: heartbeat.oau
 
 sites:
-  - name: main.ping
-    check: "tcp-ping"
+  - name: main.url
     url: https://www.one-among.us/
     icon: https://raw.githubusercontent.com/one-among-us/web/main/public/favicon.png
 
-  - name: ca.ping
-    check: "tcp-ping"
+  - name: ca.url
     url: https://oneamongus.ca/
     icon: https://raw.githubusercontent.com/one-among-us/web/main/public/favicon.png
 
-  - name: data.ping
-    check: "tcp-ping"
+  - name: data.url
     url: https://data.one-among.us/
-    icon: https://raw.githubusercontent.com/one-among-us/web/main/public/favicon.png
-
-  - name: be.ping
-    url: https://backend.one-among.us/
-    check: "tcp-ping"
     icon: https://raw.githubusercontent.com/one-among-us/web/main/public/favicon.png
 
   - name: data.page
@@ -29,10 +21,6 @@ sites:
   - name: be.flower
     url: https://backend.one-among.us/flowers/get?id=noname
     icon: https://raw.githubusercontent.com/one-among-us/web/main/public/favicon.png
-
-  - name: nc.ping
-    check: "tcp-ping"
-    url: https://thissitedoesnotexist.koj.co/
 
 assignees: # Users to assign downtime issues (optional)
   - one-among-us
