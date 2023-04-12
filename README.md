@@ -24,10 +24,10 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://kunik1o.github.io/heartbeat.oau)
+[**Visit our status website →**](https://artefaritakuniklo.github.io/heartbeat.oau/)
 
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
-- Code: [MIT](./LICENSE) © [K[uni]kl0](https://kunik1o.github.io/heartbeat.oau)
+- Code: [MIT](./LICENSE) © [kuniklo](https://artefaritakuniklo.github.io/heartbeat.oau/)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
