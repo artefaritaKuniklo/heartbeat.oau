@@ -5,19 +5,17 @@
     "icon": "https://raw.githubusercontent.com/one-among-us/web/main/public/favicon.png",
     "slug": "main-url",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 115,
-    "timeDay": 137,
-    "timeWeek": 138,
-    "timeMonth": 115,
-    "timeYear": 115,
-    "dailyMinutesDown": {
-      "2023-05-03": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 113,
+    "timeDay": 116,
+    "timeWeek": 129,
+    "timeMonth": 113,
+    "timeYear": 113,
+    "dailyMinutesDown": {}
   },
   {
     "name": "ca.url",
@@ -25,16 +23,16 @@
     "icon": "https://raw.githubusercontent.com/one-among-us/web/main/public/favicon.png",
     "slug": "ca-url",
     "status": "up",
-    "uptime": "99.26%",
+    "uptime": "99.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.26%",
-    "uptimeYear": "99.26%",
-    "time": 156,
-    "timeDay": 92,
-    "timeWeek": 138,
-    "timeMonth": 156,
-    "timeYear": 156,
+    "uptimeMonth": "99.28%",
+    "uptimeYear": "99.28%",
+    "time": 151,
+    "timeDay": 34,
+    "timeWeek": 119,
+    "timeMonth": 151,
+    "timeYear": 151,
     "dailyMinutesDown": {
       "2023-04-15": 219
     }
@@ -45,19 +43,17 @@
     "icon": "https://raw.githubusercontent.com/one-among-us/web/main/public/favicon.png",
     "slug": "data-url",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 126,
-    "timeDay": 87,
-    "timeWeek": 141,
+    "timeDay": 102,
+    "timeWeek": 140,
     "timeMonth": 126,
     "timeYear": 126,
-    "dailyMinutesDown": {
-      "2023-05-03": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "data.page",
@@ -65,19 +61,17 @@
     "icon": "https://raw.githubusercontent.com/one-among-us/web/main/public/favicon.png",
     "slug": "data-page",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 44,
-    "timeDay": 33,
-    "timeWeek": 43,
-    "timeMonth": 44,
-    "timeYear": 44,
-    "dailyMinutesDown": {
-      "2023-05-03": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 45,
+    "timeDay": 32,
+    "timeWeek": 44,
+    "timeMonth": 45,
+    "timeYear": 45,
+    "dailyMinutesDown": {}
   },
   {
     "name": "be.flower",
@@ -85,18 +79,16 @@
     "icon": "https://raw.githubusercontent.com/one-among-us/web/main/public/favicon.png",
     "slug": "be-flower",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 304,
-    "timeDay": 248,
-    "timeWeek": 311,
+    "timeDay": 233,
+    "timeWeek": 303,
     "timeMonth": 304,
     "timeYear": 304,
-    "dailyMinutesDown": {
-      "2023-05-03": 10
-    }
+    "dailyMinutesDown": {}
   }
 ]
