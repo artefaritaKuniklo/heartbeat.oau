@@ -23,11 +23,11 @@
     "icon": "https://raw.githubusercontent.com/one-among-us/web/main/public/favicon.png",
     "slug": "ca-url",
     "status": "up",
-    "uptime": "99.54%",
+    "uptime": "99.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.54%",
+    "uptimeYear": "99.55%",
     "time": 151,
     "timeDay": 154,
     "timeWeek": 190,
@@ -78,17 +78,19 @@
     "url": "https://backend.one-among.us/flowers/get?id=noname",
     "icon": "https://raw.githubusercontent.com/one-among-us/web/main/public/favicon.png",
     "slug": "be-flower",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 315,
-    "timeDay": 370,
-    "timeWeek": 267,
-    "timeMonth": 310,
-    "timeYear": 315,
-    "dailyMinutesDown": {}
+    "time": 310,
+    "timeDay": 237,
+    "timeWeek": 247,
+    "timeMonth": 303,
+    "timeYear": 310,
+    "dailyMinutesDown": {
+      "2023-05-16": 0
+    }
   }
 ]
