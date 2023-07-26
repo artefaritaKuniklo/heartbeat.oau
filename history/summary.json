@@ -4,19 +4,19 @@
     "url": "https://www.one-among.us/",
     "icon": "https://raw.githubusercontent.com/one-among-us/web/main/public/favicon.png",
     "slug": "main-url",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.84%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.11%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
     "time": 113,
-    "timeDay": 107,
-    "timeWeek": 115,
-    "timeMonth": 108,
+    "timeDay": 103,
+    "timeWeek": 113,
+    "timeMonth": 107,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2023-07-26": 16
+      "2023-07-26": 27
     }
   },
   {
