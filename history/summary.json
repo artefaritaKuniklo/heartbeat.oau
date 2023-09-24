@@ -44,18 +44,20 @@
     "url": "https://data.one-among.us/",
     "icon": "https://raw.githubusercontent.com/one-among-us/web/main/public/favicon.png",
     "slug": "data-url",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 118,
-    "timeDay": 100,
-    "timeWeek": 108,
-    "timeMonth": 107,
+    "timeDay": 156,
+    "timeWeek": 121,
+    "timeMonth": 110,
     "timeYear": 118,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-24": 0
+    }
   },
   {
     "name": "data.page",
