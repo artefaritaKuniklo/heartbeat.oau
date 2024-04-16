@@ -1,7 +1,7 @@
 url: https://backend.one-among.us/flowers/get?id=noname
-status: down
-code: 521
-responseTime: 127
-lastUpdated: 2024-04-16T10:41:10.889Z
+status: up
+code: 200
+responseTime: 2764
+lastUpdated: 2024-04-16T10:52:55.401Z
 startTime: 2023-04-12T22:16:02.000Z
 generator: Upptime <https://github.com/upptime/upptime>
