@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 136,
-    "timeDay": 105,
-    "timeWeek": 137,
-    "timeMonth": 146,
+    "timeDay": 139,
+    "timeWeek": 138,
+    "timeMonth": 144,
     "timeYear": 142,
     "dailyMinutesDown": {
       "2024-04-04": 17,
@@ -31,10 +31,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 144,
-    "timeDay": 169,
-    "timeWeek": 160,
-    "timeMonth": 160,
+    "time": 143,
+    "timeDay": 113,
+    "timeWeek": 154,
+    "timeMonth": 154,
     "timeYear": 144,
     "dailyMinutesDown": {}
   },
@@ -50,13 +50,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 136,
-    "timeDay": 112,
-    "timeWeek": 153,
-    "timeMonth": 167,
+    "timeDay": 147,
+    "timeWeek": 148,
+    "timeMonth": 166,
     "timeYear": 143,
     "dailyMinutesDown": {
-      "2023-10-30": 16,
-      "2023-10-28": 35
+      "2023-10-30": 16
     }
   },
   {
@@ -71,13 +70,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 52,
-    "timeDay": 70,
-    "timeWeek": 74,
+    "timeDay": 75,
+    "timeWeek": 75,
     "timeMonth": 80,
     "timeYear": 57,
-    "dailyMinutesDown": {
-      "2023-10-28": 35
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "be.flower",
@@ -91,15 +88,14 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 286,
-    "timeDay": 133,
-    "timeWeek": 287,
-    "timeMonth": 270,
-    "timeYear": 268,
+    "timeDay": 340,
+    "timeWeek": 293,
+    "timeMonth": 272,
+    "timeYear": 269,
     "dailyMinutesDown": {
       "2024-10-04": 19,
       "2024-04-21": 21,
-      "2023-11-30": 17,
-      "2023-10-28": 23
+      "2023-11-30": 17
     }
   }
 ]
