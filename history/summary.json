@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 145,
-    "timeDay": 201,
-    "timeWeek": 174,
-    "timeMonth": 170,
+    "timeDay": 245,
+    "timeWeek": 170,
+    "timeMonth": 173,
     "timeYear": 152,
-    "dailyMinutesDown": {
-      "2024-04-04": 17
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ca.url",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 149,
-    "timeDay": 140,
-    "timeWeek": 185,
-    "timeMonth": 170,
+    "timeDay": 339,
+    "timeWeek": 181,
+    "timeMonth": 175,
     "timeYear": 154,
     "dailyMinutesDown": {}
   },
@@ -48,10 +46,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 145,
-    "timeDay": 149,
-    "timeWeek": 190,
-    "timeMonth": 173,
+    "time": 146,
+    "timeDay": 294,
+    "timeWeek": 181,
+    "timeMonth": 177,
     "timeYear": 150,
     "dailyMinutesDown": {}
   },
@@ -67,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 64,
-    "timeDay": 77,
-    "timeWeek": 83,
-    "timeMonth": 86,
+    "timeDay": 135,
+    "timeWeek": 80,
+    "timeMonth": 88,
     "timeYear": 69,
     "dailyMinutesDown": {}
   },
@@ -85,9 +83,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 264,
-    "timeDay": 364,
-    "timeWeek": 304,
-    "timeMonth": 276,
+    "timeDay": 225,
+    "timeWeek": 275,
+    "timeMonth": 272,
     "timeYear": 271,
     "dailyMinutesDown": {
       "2024-10-04": 19,
