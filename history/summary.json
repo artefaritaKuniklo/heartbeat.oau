@@ -76,9 +76,9 @@
     "url": "https://backend.one-among.us/flowers/get?id=noname",
     "icon": "https://raw.githubusercontent.com/one-among-us/web/main/public/favicon.png",
     "slug": "be-flower",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -88,6 +88,7 @@
     "timeMonth": 313,
     "timeYear": 343,
     "dailyMinutesDown": {
+      "2025-07-21": 0,
       "2024-10-04": 19
     }
   }
