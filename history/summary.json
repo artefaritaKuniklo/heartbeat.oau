@@ -4,17 +4,17 @@
     "url": "https://www.one-among.us/",
     "icon": "https://raw.githubusercontent.com/one-among-us/web/main/public/favicon.png",
     "slug": "main-url",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "88.89%",
+    "uptimeDay": "88.88%",
     "uptimeWeek": "98.41%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.97%",
-    "time": 190,
-    "timeDay": 1055,
-    "timeWeek": 655,
-    "timeMonth": 368,
-    "timeYear": 204,
+    "time": 189,
+    "timeDay": 937,
+    "timeWeek": 616,
+    "timeMonth": 362,
+    "timeYear": 203,
     "dailyMinutesDown": {
       "2025-11-18": 160
     }
@@ -64,19 +64,19 @@
     "url": "https://data.one-among.us/people/noname/page.js",
     "icon": "https://raw.githubusercontent.com/one-among-us/web/main/public/favicon.png",
     "slug": "data-page",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "89.94%",
-    "uptimeWeek": "98.56%",
-    "uptimeMonth": "99.67%",
+    "uptimeDay": "88.45%",
+    "uptimeWeek": "98.35%",
+    "uptimeMonth": "99.62%",
     "uptimeYear": "99.97%",
     "time": 83,
-    "timeDay": 51,
-    "timeWeek": 71,
+    "timeDay": 55,
+    "timeWeek": 72,
     "timeMonth": 82,
     "timeYear": 86,
     "dailyMinutesDown": {
-      "2025-11-18": 145
+      "2025-11-18": 167
     }
   },
   {
