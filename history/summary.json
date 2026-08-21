@@ -85,21 +85,22 @@
     "url": "https://backend.one-among.us/flowers/get?id=noname",
     "icon": "https://raw.githubusercontent.com/one-among-us/web/main/public/favicon.png",
     "slug": "be-flower",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 352,
-    "timeDay": 105,
-    "timeWeek": 211,
-    "timeMonth": 239,
-    "timeYear": 296,
+    "time": 357,
+    "timeDay": 1576,
+    "timeWeek": 566,
+    "timeMonth": 326,
+    "timeYear": 304,
     "dailyMinutesDown": {
       "2025-11-09": 130,
       "2025-11-18": 145,
-      "2026-04-14": 215
+      "2026-04-14": 215,
+      "2026-08-21": 0
     }
   }
 ]
